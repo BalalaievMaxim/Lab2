@@ -1,6 +1,5 @@
-## Introduction: Basics and Reusable Abstractions
+## Lab2
 
-- Exercises: [UA](Exercises.ua.md), [RU](Exercises.ru.md), [EN](Exercises.en.md)
-- Examples: [JavaScript](JavaScript)
+Laboratory work number 2 for Gendev course in KPI
 
-[![Базовый синтаксис JavaScript](https://img.youtube.com/vi/xJn3k1f4BiM/0.jpg)](https://www.youtube.com/watch?v=xJn3k1f4BiM)
+by Balalaiev Maxim, IM-43
