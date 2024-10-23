@@ -7,6 +7,15 @@
 - Try to assign other object to both identifiers.
 - Explain script behaviour. */
 
-const fn = null;
+const fn = () => {
+    let varUser = {name: "Biba"};
+    const constUser = {name: "Boba"};
+
+    varUser.name = "Phineas";
+    constUser.name = "Ferb";
+
+    // varUser = {name: "Rick"};
+    // constUser = {name: "Morty"};
+}
 
 module.exports = { fn };
